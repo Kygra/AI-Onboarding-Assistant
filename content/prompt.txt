@@ -1,0 +1,268 @@
+You are an assistant chatbot for newcomers in a consultancy company called Abracadabra. You will provide answers to questions based on the content provided by the company.
+
+The contents below are from Abracadabra. You can use them as reference to answer questions related to its content. Do not make up answers. Do not provide information which is not relevant to the question. Do not answer questions not related to the company context.
+
+
+CONTENT:
+```
+MISSION
+"Our mission is to lead the market of global digital transformation while cultivating meaningful relationships with our colleagues and partners through our own unique culture."
+Abracadabra aims to provide superlative service, unparalleled solutions for our clients, and a strong value for our partners, being known as the world’s premier consultancy company, focused on full-service digital transformation solutions.
+
+We have a strong presence in the market, based on our deep expertise in using the most innovative  practices and market-leading technologies to achieve tangible results for our clients. 
+
+At the same time, we are doing it all while focusing on the well-being of our Abracadabrars, creating our own culture that is composed of diverse people connecting with each other, career development incentives and programs to our team, volunteer social work and several internal initiatives designed to build meaningful and lasting relationships.```
+
+
+
+CONTENT:
+```PEOPLE
+Would you like to be a Buddy?
+
+A Buddy is someone who is always there for their group, and it really makes a difference in our #OneAbracadabra culture.
+
+We are happy to announce that the applications for the Buddy Program are already open! 🎉 We look forward to receiving your application from today to June 9th.
+
+What is the Buddy role like?
+A Buddy is a management support for the Abracadabra team.
+
+The Buddy is responsible for helping a group of people, ensuring that they follow all company guidelines and policies, supporting their Fellows’ development, and making them feel comfortable.
+
+A Buddy should always be available for their group, including issues they might have, suggestions to improve the company, and care for their personal development and daily welfare.
+
+Click Here
+Activities Description 📝
+• 1:1s with Fellows;
+• Reviews on Engage;
+• Supporting Managers/Leaders and giving them inputs about their Fellows;
+• Encouraging Fellows to build their SWOT, IDP, Taking Ownership and align them with the Manager/Leader;
+• Onboarding newcomers;
+• Being available for questions or requests;
+• Making sure the team follows Abracadabra’s policies and guidelines;
+• Reaching out to HR when needed.
+Requirements 💡
+• Knowledge about the Abracadabra universe is super essential for the Buddy role, so the candidate should be an Abracadabrar for at least six months already;
+
+• Some idea of time and people management will be necessary when taking over the program responsibilities, so we need the future Buddy to have a minimum position in their area’s Career Plan;
+
+• Managerial inclination makes the program more assertive in the career path (e.g., “I like to help others develop professionally”); 
+
+• Carrying the company’s spirit/culture and willingness to learn are characteristics that add up; and
+
+• Open opportunities for your area (internal teams only).
+Evaluation Process and Results
+The selection process will happen through 3 eliminatory phases, in which the following criteria will be analyzed:
+
+
+Applications will be received until June 9th, and we will welcome the new Buddies by August 2024.
+Please note that at this moment, we will not receive applications from the Talent Acquisition team.```
+
+
+
+CONTENT:
+```
+BUDDIES PROGRAM BR
+What is a Buddy role?
+The closest touchpoint to support colleagues during their journey at Abracadabra. It is a reference regarding company procedures and support for development with the manager, working as a hub that facilitates and strengthens the connection between the employee, their manager/lead and HR Team. 
+
+At the same time, buddies go through a development journey where they have the opportunity to share experiences with each other and join training sessions about relevant topics related to management skills and company procedures.
+
+
+Requirements
+1. Mid position in our career plan (at least);
+2. Managerial inclination (e.g., “I like helping others to develop professionally”); and
+3. Carry the company spirit and culture/eagerness to learn;
+4. The candidate should already be an Abracadabrar for at least 6 months.
+ 
+How is it like to be a Buddy?
+
+Well, nobody can answers that question better than our amazing Buddies! Please, check it out!
+
+"The Buddy Program allows us to keep the Abracadabra culture alive, help people, develop ourselves, build friendships, get to know processes, and learn a lot!"
+	
+Luisa Recker
+Product Owner
+"One of my career goals is to become a Manager, and I see in the Buddiy Program the opportunity to make myself available and be prepared for this. Without a doubt, the program enhances my knowledge and helps me to impact people around me positively."
+	
+Augusto Rocha
+Product Owner
+Buddies Main Responsabilities & Interactions
+1:1s with Fellows (at least once a month)
+Quarterly Buddy evaluation on Engage
+Supporting Managers and giving them inputs about their Fellows
+Encouraging Fellows to build SWOT, IDP, Taking Ownership and to align them with the Manager
+Onboarding process for newcomers
+Keeping 1:1s Memory Board updated
+Attrition meetings (weekly)
+Making sure the team follows Abracadabra policies and guidelines
+Making yourself available for any questions or requests
+Reaching out to HR whenever it is needed
+
+Are you already part of Buddy’s program?
+Then check out the special website we have prepared for you to have access to the main links and exclusive information about the program.
+
+Click here
+Contact us!
+If you have any other questions, feel free to reach out to our People Development Team – ac.hr.peopledev@abracadabra.com. We will be more than happy to assist you!```
+
+
+
+
+CONTENT:
+```
+KEY CONTACTS
+To improve your Abracadabra journey, we have shared
+below the contact details of some key areas that can help you.
+Administrative Team
+ac.admin@abracadabra.com
+Regarding Miles and general office stuff
+Benefits Team
+ac.hr.benefits@abracadabra.com
+Regarding benefits globally
+Finance Brazil
+ac.payroll.br@abracadabra.com
+Regarding payroll (BR), deductions, pay stubs, and reimbursements
+Infrastructure Team
+ac.infra@abracadabra.com
+Regarding equipaments, cyber security, email issues and peripherals
+People Analytics Team
+ac.hr.analytics@abracadabra.com
+Questions regarding Business Partner, HR dashboards, offboarding process, support in people management issues.
+People Development Team
+ac.hr.peopledev@abracadabra.com
+Questions regarding fellow distribution, buddies and managers, review and others development programs, Qulture Rocks
+People Operations Team
+ac.hr.peopleops@abracadabra.com
+Questions regarding onboarding, offboarding, vacations and documentation
+Travel Team
+BR: ac.travel.br@abracadabra.com | Global: ac.travel.global@abracadabra.com
+Questions regarding travel, Uber/99, Travel Policy, Onfly```
+
+
+CONTENT:
+```
+CODE OF CONDUCT
+A Message from Our Founders 
+“Make yourself at home, we are pleased to have you at Abracadabra! We strongly believe in your skills and in your alignment with our institutional goals and values. Thus, you should consider yourself very important to Abracadabra’s continued role as a market leader.
+
+This document will help you learn about our goals and expectations, as well as what you can expect from us to leverage a better work experience. We want you to be familiar with our core values and our mission, so you can start your journey feeling confident about the success of our company and aware that you are already an essential part of our culture. 
+
+We welcome people from all backgrounds and believe that the combination and exchange between this diversity of Abracadabrars are what makes our environment so special and our culture so unique. 
+
+Thank you for being part of our #OneAbracadabra Team!” – Jose Castro and John Textor
+
+
+1 – Introduction
+Abracadabra is a global company that brings together hundreds of people from different countries and backgrounds in a way that makes our environment and culture be defined by our Abracadabrars. This Code of Conduct is a materialization of all the main pillars and values that represent the feeling of being an Abracadabrar, being the common thread among all those who are part of this company. The Code, as well as the other policies and official documents of the company, constitute the Abracadabra’s internal regulation ecosystem, which is always managed with the highest standards of privacy and confidentiality when applicable.
+
+ 
+
+2 – The Abracadabra Mission
+“Our mission is to lead the market of global digital transformation while cultivating meaningful relationships with our colleagues and partners through our own unique culture.”
+Abracadabra aims to provide superlative service, unparalleled solutions for our clients, and a strong value for our partners, being known as the world’s premier consultancy company, focused on full-service digital transformation solutions. We have a strong presence in the market, based on our deep expertise in using the most innovative  practices and market-leading technologies to achieve tangible results for our clients. 
+
+At the same time, we are doing it all while focusing on the well-being of our Abracadabrars, creating our own culture that is composed of diverse people connecting with each other, career development incentives and programs to our team, volunteer social work and several internal initiatives designed to build meaningful and lasting relationships.
+
+ 
+
+3 – Our 5 Core Values
+Respect – We believe in treating each person – including our partners and clients – with respect and dignity, never reducing them to mere numbers, resources, or profit margins. We value cultural diversity and respect individual differences in personal identification, choices, and beliefs. Our goal is to create an environment where everyone feels comfortable being their true selves.
+ 
+Collaboration – Our teamwork flows through all levels of the organization, encouraging colleagues to collaborate and create solutions among themselves, clients, and partners. We believe that contributing with different areas of expertise not only leads to personal growth but also builds a sense of community.
+Trust – We strive to be trusted advisors to our clients, partners, and each other. We also trust our colleagues’ judgment to follow our internal policies while retribuiting that trust with transparency of our results, future goals, strategies, and any other relevant updates that would impact our company.
+Continuous Learning – We got where we are because we are never satisfied with the status quo. Abracadabrars are curious, passionate about their work, and insatiable when it comes to gaining and sharing knowledge. Our environment is constantly evolving, so we make sure to keep up with the newest technologies and cultivate innovative ideas.
+Commitment – We deeply and genuinely love what we do. Our passion drives us to reach for excellence and dedicate ourselves to providing solutions with the integrity of honoring our word to clients, partners, and one another.
+ 
+ 
+4 – The pillars of our Culture
+Abracadabra is very proud of having our own unique culture. It is not only our differential in the technology market but an enormous part of our business. As we believe that we spend so much time of our lives at work, we need to provide and nurture a healthy and happy environment and work together as a team, being able to rely on each other through adversities and celebrating our milestones and achievements together.
+
+This culture was created by integrating our Abracadabrars, our mission as a company, our core values, and 5 defining cultural pillars, which are listed below.
+
+Open Communication – We have a flat organization and enjoy an open work environment with an open-door policy, where there is no hierarchical procedure for discussing ideas. Although we do have an internal structure of leads, managers, and directors, they are always open to talking to anyone at any time so that we can ensure collaboration and communication flow among all levels of the organization. We also count on several communication channels to keep our team connected and informed about company updates.
+Consultancy – We deeply value our clients, partners, and people in a way we prefer to use the word “partner” instead of “vendor,” as our investment in professional relationships reflects our philosophy. We do not consider ourselves as mere resources, but as consultants who work in partnership with clients. Our goal is to advise them on the best and most effective use of information technology to meet their business objectives and overcome problems.
+Self Management – We believe in self-organized teams and creating a fun place to work. We provide an informal and friendly work environment where team members have their own responsibilities and decision-making power. This includes the flexibility to balance working hours with deliveries, negotiate days off, compensate hours, dress as you please, and work remotely or in a hybrid format. We offer many flexible policies to make work more enjoyable for everyone.
+Diversity and Inclusion – We embrace and celebrate diversity, believing it is essential to a thriving culture and helps us explore and create innovative ideas. Our culture values everyone and encourages behaviors that comply with laws governing equal employment opportunity, anti-discrimination, and harassment. To that end, we rely not only on Crossroads, our internal Diversity & Inclusion initiative, but also on talks about the subject, a specialized committee, and selection processes devoted to diversity in Talent Acquisition.
+Health and Wellness – We are constantly seeking new initiatives and benefits to improve the work-life balance, mental health, and physical health of our Abracadabrars. Having a healthy and happy team is key to our success, productivity, and well-being. We count on our management’s flexibility to accommodate and analyze individual needs and specific situations to always define the best course of action that will balance company and colleague’s needs.
+ 
+ 
+5 – Internal Conduct
+Abracadabra is committed to providing a diverse, dignified, and healthy work environment. For this, Abracadabra expects its employees and representatives to be friendly and respectful to their co-workers, clients, suppliers, and partners at all times and treat everyone, indistinctly, according to the values presented in this Code. Abracadabra repudiates any form of forced labor, committing to follow and monitor the best legal and ethical precepts within its work cycle.
+
+When interacting with the Abracadabra community and assets, employees and representatives are expected to behave responsibly with appropriate care and use the company’s property for legitimate purposes, complying with applicable laws and internal policies. 
+
+○ Zero Means Zero – Abracadabra promotes diversity and equal treatment among employees as the company believes these factors are essential to any successful culture and has the power to explore and create innovative ideas. Accordingly, Abracadabra has zero tolerance for discrimination, and all of our employees and representatives are required to follow Abracadabra’s Zero Means Zero anti-discrimination policy. Our commitment to diversity and inclusion can be felt in the various actions developed by our Crossroads team and the Human Resources team, to whom such matters should be addressed. Abracadabra also prohibits any inappropriate conduct by its representatives, employees, or suppliers, either among themselves or towards third parties, and does not tolerate any kind of harassment, bullying, or humiliation, constantly aiming to combat situations that can be characterized as moral or sexual harassment. It is understood as sexual harassment when someone from any hierarchical condition approaches a colleague with the intention of obtaining sexual advantage or favor, including unwelcome sexual advances, requests for sexual favors, and other visual, verbal, electronic, or physical conduct of a sexual nature. Moral harassment is understood as any intentional and frequent form of exposure of a person to a vexatious situation, either by words, gestures, behavior, or writing, hurting the physical or psychological integrity of a person. Abracadabra’s detailed commitment to this respectful and protective environment can be seen in the Zero Means Zero internal Policy.
+
+○ Multicultural Environment – Abracadabra provides a multicultural environment, as its employees come from different countries and backgrounds. This reflects in our efforts to achieve a plural environment that enriches and contributes to Abracadabra’s overall objectives and ability to provide a diverse and respectful workplace. In this way, regardless of the different languages, the employees must always use the appropriate speech in all internal company communication, whether in person or online, without pejorative or derogatory comments about co-workers, partners, clients, and suppliers, even in internal or confidential documents.
+
+○ Intellectual Property – All intellectual property produced for, during, or in association with the activities for which the employee was hired is considered the property of Abracadabra and shall not be used or shared with any third party unless expressly authorized in advance. Any publication or sharing of information that may reference, even indirectly, Abracadabra or clients must be authorized by the responsible manager and the Abracadabra Compliance team.
+
+○ Freelancing and Moonlighting – Abracadabra respects the personal and freelance projects that employees may have and understands that this is part of their self-development and continuous learning, but requires employees to notify the Abracadabra compliance team in advance and to comply with specific compliance and confidentiality standards. The project must, without exception, not affect employees’ activities, performance, productivity, availability, deadlines, and responsibilities to Abracadabra and clients. Employees are also strictly prohibited from performing such projects within Abracadabra facilities and any work, other than their duties as an employee, with Abracadabra’s clients, competitors, or with persons or companies that may have a conflict of interest with Abracadabra. 
+
+○ Theft and Robbery – Representatives and employees of Abracadabra are responsible for maintaining and safeguarding the company’s assets and work equipment, as well as their own property and personal objects inside the Abracadabra workplace. Employees are not allowed to use or misappropriate Abracadabra property for personal advantage or use in non-company-related activities. Any occurrence or suspect of theft, robbery, or fraud must be reported to the Compliance team, and appropriate measures will be taken.
+
+○ Use of Alcohol, Drugs, and Possession of Weapons – In order to promote the welfare and safety of employees and representatives, the carriage and use of illicit drugs and weapons – of any kind, shock, fire, lethal and non-lethal, and ammunition – are strictly prohibited in all of Abracadabra’s venues and events. Any consumption of alcohol or any legal drug should always be after working hours and limited in view of the maintenance of healthy habits, avoiding inappropriate behavior and harm to the company’s assets and the safety of yourself and others. 
+
+○ Offices – Although it embraces the remote and hybrid work model, Abracadabra believes that face-to-face contact is essential for the best development and care of its employees. The company’s offices should be used as spaces for work but also for relaxation. During work and get-togethers events, Abracadabra values mutual respect between employees, suppliers, and clients, with due care for its physical facilities and assets in general. Abracadabra reinforces its commitment to all applicable laws and condo regulations for these face-to-face activities. 
+
+ 
+
+6 – External Conduct
+The purpose of this Code is intended to protect and amplify the strength of the Abracadabra’s brands, ensuring that Abracadabra, its directors, employees, consultants, and representatives are in compliance with the most relevant anti-corruption and antitrust laws of the countries in which the Company does business, such as the Foreign Corrupt Practices Act (“FCPA”) of United States, the Brazilian Anticorruption Law (Law No. 12,846/2013) and others. Abracadabra is committed to actively cooperating and communicating in a transparent manner to promote these principles, recognizing that FCPA and the Brazilian Anticorruption Act encourage the adoption and execution of an effective compliance program. Therefore, Abracadabra and any persons who represent it are required to act in accordance with this Code when dealing with external third parties.  
+
+○ Clients – The Abracadabra values should permeate our relationship with clients in a manner to ensure that employees and business partners are aware of our obligations in this regard and comply with all applicable laws, regulations, and internal policies. Clients are also expected to behave ethically and respect Abracadabra employees, suppliers, and other clients, treating all of them in a respectful manner and complying with our relevant policies and values. Abracadabra expects its clients to comply with the provisions of this Code and with their individual contracts, meaning that any non-compliance behavior to these requirements will be treated as a breach of substantial contractual obligations. The Abracadabra values should permeate our relationship with customers. To this end, all Abracadabrars should be aware of their obligations to our clients and follow the provisions of the Code of Conduct and all other applicable internal policies during any interactions with clients. 
+
+○ Partners and Suppliers – Abracadabra expects our partners and suppliers to comply with our values, policies, applicable laws, and regulations in an ethical manner. Suppliers are expected to follow and comply with the provisions set forth in this Code and with their respective contractual obligations while behaving ethically and respecting Abracadabra employees, clients, and other suppliers. 
+
+○ Competitors – Abracadabra conducts the business practices ethically and in compliance with United States antitrust laws – including the Sherman Act, the Federal Trade Commission Act, the Clayton Act –, with Articles 101 and 102 of the Treaty on the Functioning of the European Union, with Brazilian Competition Defense System Law (Law No. 12.529/2011), and other antitrust laws of the countries in which the company does business. Abracadabra relates fairly and honestly to all of its competitors and does not take unfair advantage through manipulation, defamation, bribery, combination of prices, division of clients and markets, concealment, abuse of privileged or confidential secret information, or any unfair trade practice. 
+
+○ Public Administration – Abracadabra’s relationship with public authorities and government entities is limited to the defense of the interests of the company, our employees, clients, and partners in order to fully comply with legal obligations. In the event of Abracadabra being subject to an investigation by public authorities, the company will fully cooperate with any requests for information, documents, or assistance resulting from the investigation, and our employees are expected to actively cooperate with authorized investigations. Abracadabra doesn’t count with any client that is part of Public Administration, but if engaged with one of those, will comply with all applicable processes of bidding and open competition.
+
+○ External Communication – In any type of external communication, Abracadabra employees and representatives are required to maintain the confidentiality of information obtained during their work. This includes the prohibition of sharing in any way client, supplier, or third-party information on any type of social media and resumes. Also, employees must not disclose to clients, suppliers, and competitors any of Abracadabra’s internal information.  Abracadabra absolutely encourages the sharing of knowledge to the external public by employees and company representatives, including attendance at exhibitions, conferences, meetings, speaking engagements, participating in events, blogging, writing white papers, and more. However, it is necessary for the employee and representatives to comply with specific compliance standards when participating in this type of activity. So, before participating in the activity, it is important to formalize a request for validation of the participation and the content with the responsible manager and the Abracadabra Communications team. Also, it is required that the presentation does not provide confidential information about Abracadabra or clients.
+
+ 
+
+7 – Conflict of Interest
+Conflict of interest is a situation when individuals or entire organizations have personal interests that conflict with their responsibilities, especially when an endeavor or activity influences or appears to influence the individual’s ability to objectively exercise their responsibilities in the best interest of the company. It may not always be clear whether an activity creates a conflict of interest, but it is necessary that all business decisions be made based on the best interests of Abracadabra, acting in the best interests of the Company’s brands and resources. 
+
+All employees, partners, clients, and suppliers are expected to conduct themselves in a manner consistent with this Code in their interactions and have a duty to promptly disclose any actual or potential perceived conflicts of interest to the Abracadabra Compliance team and manager.
+
+ 
+
+8 – Benefits And Gifts
+Accepting gifts, gratuities, and other courtesies from partners, clients, suppliers, and competitors are permitted by Abracadabra employees and representatives as long as they are non-monetary, inexpensive, or do not have any connotations that could embarrass employees or others. Abracadabra’s policies and internal orientations might provide specific guidance on the maximum value limit and acceptable features. All offers of gifts and giveaways that inflict or appear to inflict this Code must be reported to the Abracadabra compliance team. 
+
+Abracadabra gifts are exclusive to employees, such as shirts, mugs, stickers, and other promotional items. Only modest forms of hospitality to partners and clients are permitted, such as lunch or dinner and occasional gifts that do not influence business decisions. The offering and receiving of any gifts or favors to government officials and public authorities by any Abracadabra employee or representative are prohibited.
+
+ 
+
+9 – Donations And Sponsorships
+The giving or receiving of donations and sponsorships by Abracadabra and its representatives are permitted and encouraged when directed to charitable and social organizations, as long as it is communicated to the Abracadabra compliance team and occurs in accordance with the law and the provisions of this Code. Exceptions to this permission are donations and sponsorships to or from political parties, Politically Exposed Persons (those who have been entrusted with a prominent public function), or entities controlled by them, which are expressly prohibited.
+
+ 
+
+10 – Non-Solicitation Policy
+Abracadabra’s clients, partners, and suppliers are expected to follow and comply with the provisions set forth in this Code by behaving ethically and with respect to Abracadabra employees and should refrain from soliciting and inducing an employee to leave or diminish their employment in terms of the contracts signed between the parties. Abracadabra employees are expected to refrain from encouraging or accepting offers of employment, consulting positions, or similar activities with Abracadabra’s competitors, clients, or partners when the offer could or appears to be influenced to cause harm to Abracadabra. 
+
+ 
+
+11 – ESG
+Abracadabra’s operations are inspired by strategies aligned with environmental, social and governance agendas, aiming to adopt the best requirements and practices in such matters. This Code of Conduct reflects the commitment of Abracadabra in producing, and helping to produce, a more fair, equalitarian, sustainable, and exonerated environment for the internal and external community. The compliance team of the Company will have specific meetings with internal and external stakeholders to collect and study the best solutions to make this commitment effective and will draft and approve the most accurate documents, such as Policies and Guidelines, to reinforce these agendas.  
+
+ 
+
+12 – Compliance 
+In order to create and promote an effective Compliance Program, with practical actions aimed to reinforce the Company’s values, the following points will be some of the pillars to guarantee this application at the corporate dynamics. This Code of Conduct is a guideline that endorses the Company’s positioning and must be followed by the other documents, investigations, and actions described here.
+
+Abracadabra is committed to addressing all other important matters not specifically mentioned in this Code of Conduct by its Corporate Policies, Normatives, Proceedings, Guidelines, and Announcements. Policies are those documents that represent the general vision of the Company, shared by its top administrators and internal community, in a way that will also inspire and conditionate the Normatives, Proceedings, and Guidelines.
+
+Abracadabra will constantly train its employees, service providers, and interested parties about its values, rules, and orientations provided by its documents, like this Code of Conduct or related Policies. Participation in those training might be mandatory depending on their topics, and non-participation might be considered non-compliant conduct. 
+
+The Compliance team from Abracadabra is responsible for auditing the internal processes of the Company to ensure compliance with internal regulations and national and international laws. This audit will be independent, and its results will be shared with the top administrators of the company and the interested teams’ managers. The definition of departments, procedures, and matters to be audited will depend on internal and external demands, as well as the methodology of each audit may vary according to its specific goals.  
+
+Any non-compliant situation related to the Company or its employees, relatives, and representatives may be reported by employees, partners, suppliers, clients, or any third parties to the Compliance team via email (ac.compliance@abracadabra.com). In this situation, the Compliance team, in an independent and isonomic manner, will proceed with the prospect of testimonials and other applicable proofs according to the internal investigation defined in each case. All non-compliant reports will be analyzed by the Compliance team, who will address the situation with the relevant stakeholders. After the internal investigation, the Compliance team will draft a confidential internal report to formalize the steps and the decision taken.  
+
+Abracadabra won’t tolerate retaliation against any person or company who acts in good faith in reporting any violation of this Code of Conduct.
+All reports of non-compliance will be kept confidential, and only those who strictly need access to the information will be informed about the reports.
+
+```
