@@ -8,7 +8,7 @@ from openai import OpenAI
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 
-your_api_key = "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"
+your_api_key = "REPLACE_WITH_YOUR_API_KEY"
 
 initial_intructions = "You are an assistant chatbot for newcomers in a consultancy company called Abracadabra. You will provide answers to questions based on the content provided by the company, which are present in the files. Always respond with infos from either of the files. Do not make up answers. Do not provide information which is not relevant to the question. Do not answer questions not related to the company context."
 
@@ -41,7 +41,7 @@ assistant = client.beta.assistants.create(
 )
 
 #Optionally retrieve assistant if it already exists
-#assistant = client.beta.assistants.retrieve("asst_XJ3xJWXSEuC9KcOTirmdylgN")
+#assistant = client.beta.assistants.retrieve("asst_REPLACE_WITH_ASSIST_ID")
 print(assistant)
 
 #Create thread
