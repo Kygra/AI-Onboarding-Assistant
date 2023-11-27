@@ -28,7 +28,7 @@ assistant = client.beta.assistants.create(
     name="AI Onboarding Assistant",
     instructions=initial_intructions,
     tools=[{"type": "retrieval"}],
-    model="gpt-4-1106-preview",
+    model="gpt-3.5-turbo-1106",
     file_ids=[file_object.id]
 )
 
@@ -51,7 +51,7 @@ def post_message_in_thread(message):
     )
     return run
 
-def wait_for_run_completion(client, thread_id, run_id, sleep_interval=1):
+def wait_for_run_completion(client, thread_id, run_id, sleep_interval=5):
     """
     Waits for a run to complete and prints the elapsed time.:param client: The OpenAI client object.
     :param thread_id: The ID of the thread.
@@ -59,6 +59,8 @@ def wait_for_run_completion(client, thread_id, run_id, sleep_interval=1):
     :param sleep_interval: Time in seconds to wait between checks.
     """
     while True:
+        logging.info("Waiting for run to complete...")
+        time.sleep(sleep_interval)
         try:
             run = client.beta.threads.runs.retrieve(thread_id=thread_id, run_id=run_id)
             if run.completed_at:
@@ -68,9 +70,7 @@ def wait_for_run_completion(client, thread_id, run_id, sleep_interval=1):
                 break
         except Exception as e:
             logging.error(f"An error occurred while retrieving the run: {e}")
-            break
-        logging.info("Waiting for run to complete...")
-        time.sleep(sleep_interval)
+            break        
 
 def retrieve_assistant_answer():
     messages = client.beta.threads.messages.list(
