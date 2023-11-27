@@ -4,6 +4,8 @@ The AI Onboarding Assistant is a chatbot designed to assist newcomers in Abracad
 
 It provides answers to questions based on the content provided by the company, which are present in the files. The assistant is trained to respond with relevant information from these files and does not make up answers or provide irrelevant information.
 
+## Presentation
+https://docs.google.com/presentation/d/1YBdBMMQLs0aCF9IerHGzjHXf2odUFQC9HJBH04dczeU/
 
 ## Features
 - Provides answers to questions based on company context
