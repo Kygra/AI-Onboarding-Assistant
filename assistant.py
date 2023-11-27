@@ -8,20 +8,28 @@ from openai import OpenAI
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 
-your_api_key = "REPLACE_WITH_YOUR_API_KEY"
+your_api_key = "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"
 
 initial_intructions = "You are an assistant chatbot for newcomers in a consultancy company called Abracadabra. You will provide answers to questions based on the content provided by the company, which are present in the files. Always respond with infos from either of the files. Do not make up answers. Do not provide information which is not relevant to the question. Do not answer questions not related to the company context."
 
 client = OpenAI(api_key=your_api_key)
 
-#Upload files
+# Get a list of all files in the folder
 print(os.getcwd())
-filepath = 'AI-Onboarding-Assistant/content/documents/Key Contacts.txt'
-file_object = client.files.create(
-    file = open(filepath, 'rb'),
-    purpose = 'assistants',
-)
-print(file_object.id)
+folder_path = 'AI-Onboarding-Assistant/content/documents'
+files = os.listdir(folder_path)
+
+# Upload all files
+file_ids = []
+for file_name in files:
+    file_path = os.path.join(folder_path, file_name)
+    file_object = client.files.create(
+        file=open(file_path, 'rb'),
+        purpose='assistants'
+    )
+    # Do something with the file object (e.g. print its ID)
+    print(file_object.id)
+    file_ids.append(file_object.id)
 
 #Create assistant
 assistant = client.beta.assistants.create(
@@ -29,7 +37,7 @@ assistant = client.beta.assistants.create(
     instructions=initial_intructions,
     tools=[{"type": "retrieval"}],
     model="gpt-3.5-turbo-1106",
-    file_ids=[file_object.id]
+    file_ids=file_ids
 )
 
 #Optionally retrieve assistant if it already exists
