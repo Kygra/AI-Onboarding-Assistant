@@ -3,22 +3,20 @@ import time
 import logging
 from datetime import datetime
 import openai
-
-#from dotenv import load_dotenv # The dotenv library's load_dotenv function reads a .en
-# Load env variables
-#load_dotenv()
+from openai import OpenAI
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
 
-from openai import OpenAI
-client = OpenAI(api_key="ADD_YOUR_API_KEY_HERE")
+your_api_key = "REPLACE_WITH_YOUR_API_KEY"
 
 initial_intructions = "You are an assistant chatbot for newcomers in a consultancy company called Abracadabra. You will provide answers to questions based on the content provided by the company, which are present in the files. Always respond with infos from either of the files. Do not make up answers. Do not provide information which is not relevant to the question. Do not answer questions not related to the company context."
 
+client = OpenAI(api_key=your_api_key)
+
 #Upload files
-#print(os.getcwd())
-filepath = 'openai-assistants/content/KeyContacts.txt'
+print(os.getcwd())
+filepath = 'AI-Onboarding-Assistant/content/documents/Key Contacts.txt'
 file_object = client.files.create(
     file = open(filepath, 'rb'),
     purpose = 'assistants',
